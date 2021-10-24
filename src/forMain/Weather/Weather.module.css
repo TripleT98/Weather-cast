@@ -1,0 +1,25 @@
+.weather{
+  font-size: 30px;
+  width: 25%;
+  height: 100%;
+  display: grid;
+}
+.weather:last-of-type{
+  border: none;
+}
+.container{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: none;
+}
+.weather:nth-child(n){
+  text-align: center;
+}
+.zeroes{
+  font-size: 65%;
+  position:relative;
+  top:-8px;
+}

@@ -1,0 +1,22 @@
+
+.mainContent{
+  height: 450px;
+  width: 800px;
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.info{
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: none;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 15px;
+}
+.er{
+  font-size: 30px;
+  position: relative;
+  top: 180px;
+}

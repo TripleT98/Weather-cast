@@ -1,0 +1,18 @@
+.inp{
+  text-align: center;
+  font: inherit;
+  font-weight: bolder;
+  font-size: 40px;
+  width: 500px;
+  height: 50px;
+  background-color: transparent;
+  border: none;
+  margin-top: 30px;
+  margin-left: 190px;
+  outline: none;
+}
+input::placeholder{
+  font-size: 40px;
+  color:black;
+  text-align: center;
+}

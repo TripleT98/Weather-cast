@@ -1,0 +1,46 @@
+.location{
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.info{
+  font-size: 20px;
+}
+.date{
+  margin-bottom: 20px;
+}
+.info:nth-child(n){
+  margin-bottom: 40px;
+}
+
+.right{
+  float: left;
+}
+.left{
+  float: right;
+}
+.general div{
+  margin-bottom: 20px;
+}
+.humidity{
+  margin-bottom: 20px;
+  margin-top: 10px
+}
+.temperature{
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.im{
+  color:red;
+  position:absolute;
+  width: 250px;
+  height: 200px;
+  top:460px;
+  left: 470px;
+  background-image: url("Images/sprites.png");
+}
+.clear{
+  background-position: 0px 0px;
+}
+.clouds{
+  background-position: -694px 0px;
+}

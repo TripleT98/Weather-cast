@@ -1,0 +1,45 @@
+.head{
+  display: flex;
+  padding-left: 100px;
+  margin-top: 10px;
+}
+.hint{
+  position: absolute;
+  display: block;
+  width: 180px;
+  height: 150px;
+  left: 1450px;
+  top: 30px;
+  background-color: transparent;
+}
+button{
+  margin-top: 34px;
+  margin-left: 190px;
+  height: 21px;
+  width: 70px;
+  background-color: transparent;
+  border: none;
+  font: inherit;
+  font-size: 40px;
+  width: 170px;
+  height: 60px;
+  color:rgba(0, 0, 0, .5);
+  transition-duration: .7s;
+}
+
+button:hover{
+  transition-duration: .7s;
+  color:rgb(0, 0, 0);
+}
+.nav{
+  color:rgba(0, 0, 0, .5);
+  font-size: 30px;
+  padding-left: 30px;
+  position: relative;
+  top: 40px;
+  transition-duration: .7s;
+}
+.nav:hover{
+  transition-duration: .7s;
+  color:rgb(0, 0, 0);
+}

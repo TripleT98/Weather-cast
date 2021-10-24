@@ -1,0 +1,11 @@
+.main{
+  display: flex;
+  width: 80%;
+}
+.map{
+  margin-top: 25px;
+  margin-left: 25px;
+  width: 500px;
+  height: 450px;
+  font-size: 30px;
+}
